@@ -25,7 +25,7 @@ SECRET_KEY = 'c4vwg)t_@1e*$@=m_1r*lt14kt6g_p00yb8w-13ovl=l(n9d%_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chart-project.onrender.com']
 
 
 # Application definition
